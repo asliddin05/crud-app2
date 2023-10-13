@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "name": "Dilnoza",
+      "lastName": "O'razaliyeva",
+      "age": "39",
+      "id": 4
+    },
+    {
+      "name": "Nodir",
+      "lastName": "Baxtiyorov",
+      "age": "18",
+      "id": 5
+    },
+    {
+      "name": "Shodiyor",
+      "lastName": "Abdumalikov",
+      "age": "18",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

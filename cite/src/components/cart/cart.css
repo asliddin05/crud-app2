@@ -1,0 +1,13 @@
+.cart-content {
+   padding: 20px;
+   min-width: 440px;
+   background-color: #B6FFFA;
+   border: 4px solid #98E4FF;
+   margin-bottom: 10px;
+}
+.cart-title {
+ font-size: 23px;
+}
+.cart_text {
+   font-size: 23px;
+}
